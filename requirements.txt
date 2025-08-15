@@ -2,7 +2,6 @@ seaborn
 pandas
 numpy
 matplotlib
-plotly.express
+plotly>=6.0.0
+plotly-express
 streamlit
-plotly
-pickle
